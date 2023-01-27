@@ -5,6 +5,19 @@ BMI is a measure of relative weight based on an individual’s mass and height. 
 BMI can be considered as an alternative for direct measurements of body fat. Besides, BMI is an inexpensive and easy-to-perform method of screening for weight classes that may cause health problems.
 
 
+<img src="data/bmi_ss.png" height="240" >
+
+
+
+## Requirements
+* VS Code
+* Python
+
+## Code 
+
+* [Code](code/main.py)
+
+
 
 
 
